@@ -7,4 +7,6 @@ VS2015MFC图形系统开发（基本图形绘制线型颜色）
 https://download.csdn.net/download/xiayingran_/12919860?utm_source=bbsseo
 
 
+计算机组成原理学习指导与习题解析-第三版https://download.csdn.net/download/ber_bai/10686915
+
 大文件在release
