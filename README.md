@@ -11,3 +11,9 @@ https://download.csdn.net/download/xiayingran_/12919860?utm_source=bbsseo
 https://download.csdn.net/download/ber_bai/10686915
 
 大文件在release
+
+
+数据结构c语言版 严蔚敏
+计算机组成原理第3版 蒋本珊
+计算机组成与系统结构 第2版 袁春风
+有需要可留言
