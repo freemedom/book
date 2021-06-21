@@ -10,6 +10,9 @@ https://download.csdn.net/download/xiayingran_/12919860?utm_source=bbsseo
 计算机组成原理学习指导与习题解析-第三版蒋本珊
 https://download.csdn.net/download/ber_bai/10686915
 
+VS2010 代码格式化 插件 Indent Guides
+https://download.csdn.net/download/adobe_dreamweaver/4064135?utm_medium=distribute.pc_relevant.none-task-download-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-download-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
+
 大文件在release
 
 
