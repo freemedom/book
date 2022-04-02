@@ -15,14 +15,10 @@ https://download.csdn.net/download/adobe_dreamweaver/4064135?utm_medium=distribu
 
 大文件在release
 
-
 数据结构c语言版 严蔚敏 pdf
 
-计算机组成原理第3版 蒋本珊 pdf
-
-计算机组成与系统结构 第2版 袁春风 pdf
-
 python数据分析与挖掘实战第2版 pdf
+
 操作系统实践 基于Linux的应用与内核编程 房胜pdf
 
 有需要可留言
